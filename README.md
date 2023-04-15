@@ -12,7 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -22,8 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://onlineblogzone.com/frontend-mentor-qr-code-challenge-solutions](https://onlineblogzone.com/frontend-mentor-qr-code-challenge-solutions/)
 
 ## My process
 - First I started to investigate the index.html file. It only contained a div with the necessary texts. Therefore some divs needed to be added. I added the card and divided the text in a heading and a paragraph.
