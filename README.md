@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 - First I started to investigate the index.html file. It only contained a div with the necessary texts. Therefore some divs needed to be added. I added the card and divided the text in a heading and a paragraph.
-- After completing the elements, I started working on the styling. Since both desktop and mobile designs are really similar to each other, I decided to use flex-boxs to center the card both vertically and horizontally. The I styled the components within the card. Important to note is that the card had a slightly higher border-radius than the image within the card. Adding some padding and font-weight to the items within the card was the last job I did for this challenge.
+- After completing the elements, I started working on the styling. Since both desktop and mobile designs are really similar to each other, I decided to use flex-boxs to center the card both vertically and horizontally. Then I styled the components within the card. Important to note is that the card had a slightly higher border-radius than the image within the card. Adding some padding and font-weight to the items within the card was the last job I did for this challenge.
 
 ### Built with
 
